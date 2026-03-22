@@ -57,7 +57,7 @@ If you would rather use something other than Visual Studio
 
 __Note:__ This isn't the only way to accomplish implementation, however; this is what the project's tests are expecting. Implementing the features in a different way will likely result in being marked as incomplete / incorrect.
 
-- [ ] Add support for Ranked Grading
+- [x] Add support for Ranked Grading
 	- [x] Creating The `GradeBookType` Enum.
 		- [x] Create a new Enum `GradeBookType`.
 			- This should be located in the `Enums` directory.
@@ -133,7 +133,7 @@ __Note:__ This isn't the only way to accomplish implementation, however; this is
 			- This should be of type `bool`.
 			- This should be named `IsWeighted`.
 
-	- [ ] Refactor constructor of `BaseGradeBook`
+	- [x] Refactor constructor of `BaseGradeBook`
 		_Note, once this group of tasks is begun the code will not compile until the entire group of tasks is complete._
 		- [x] Add a `bool` to the `BaseGradeBook` constructor
 			- This should be of type `bool`.
